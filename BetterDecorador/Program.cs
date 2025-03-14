@@ -16,7 +16,7 @@ namespace BetterDecorador
             }
             else
             {
-                Console.WriteLine("Incompatible Format!");
+                Console.WriteLine(" User did not specify args!");
             }
         }
 
